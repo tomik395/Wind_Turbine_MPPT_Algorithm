@@ -2,6 +2,7 @@
 
 This repository contains a Maximum Power Point Tracking (MPPT) algorithm implemented in PSIM for a wind turbine power generator. This project aims to optimize power extraction under different wind conditions.
 
+[View the Full Report](Summary.pdf)
 
 ## Overview
 
