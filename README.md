@@ -42,7 +42,7 @@ The "NearZero" Implementation is an edit to the logic flow chart (shown in C blo
 To use this PSIM model, follow these steps:
 
 - Download and install PSIM.
-- Clone this repository to your local machine using https://github.com/<YourGithubUsername>/Wind-Turbine-MPPT.git
+- Clone this repository to your local machine using https://github.com/tomik395/Wind_Power_MPPT_Tracking.git
 - Open the .psimsch file in PSIM.
 
 
